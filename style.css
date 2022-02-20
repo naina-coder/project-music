@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    font-family:cursive;
+    color:rgb(205, 223, 240)
+}
+
+.heading{
+    background-color: rgb(48, 31, 61);
+}
+
+.current_song{
+background-color: rgba(255, 127, 80, 0.295);
+width:fit-content;
+
+}
+
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
+
